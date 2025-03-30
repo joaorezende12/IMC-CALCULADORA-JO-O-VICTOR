@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable imclogo
+id btnReset
+id btnRestart
+id btnSet
+id editTextAltura
+id editTextPeso
+id imageView
+id imageView3
+id imageView4
+id main
+id textAltura
+id textMotivacional
+id textPeso
+id textResultado
+id textTitulo
+layout activity_main
+layout activity_main2
+layout activity_main3
+layout activity_main4
+layout activity_main5
+layout activity_main6
+layout activity_main7
+layout activity_main8
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.ProjetoIMC
+style Theme.ProjetoIMC
+xml backup_rules
+xml data_extraction_rules
