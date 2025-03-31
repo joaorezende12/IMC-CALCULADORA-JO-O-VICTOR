@@ -1,3 +1,3 @@
 # Projeto Calculadora IMC
 
-NI1 - Vitor do Amaral.
+NI1 - João Victor Rezende - 24025945.
